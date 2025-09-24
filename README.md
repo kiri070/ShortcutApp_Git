@@ -4,6 +4,7 @@
 ## 概要
 WPFでC#を扱い、アプリやゲーム開発を行う上で、便利なツールが欲しいと思い制作しました。
 
+![画像](https://github.com/kiri070/ShortcutApp_Git/blob/main/images/image01.png)
 
 - 画面や機能の詳細はこちら  
 動作映像 youtubeリンク→ https://youtu.be/WHMAR7zmwEI
