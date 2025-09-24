@@ -61,7 +61,7 @@ namespace MyAppLauncher {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MyAppLauncher;V1.0.0.0;component/deletesettingwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MyAppLauncher;component/deletesettingwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\DeleteSettingWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

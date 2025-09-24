@@ -77,7 +77,7 @@ namespace MyAppLauncher {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MyAppLauncher;V1.0.0.0;component/inputwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MyAppLauncher;component/inputwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\InputWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

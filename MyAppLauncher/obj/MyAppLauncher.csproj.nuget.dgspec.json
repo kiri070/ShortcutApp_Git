@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ibuki\\source\\repos\\MyAppLauncher\\MyAppLauncher\\MyAppLauncher.csproj": {}
+    "C:\\UnityPortfolioAll\\ShortcutApp\\MyAppLauncher\\MyAppLauncher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ibuki\\source\\repos\\MyAppLauncher\\MyAppLauncher\\MyAppLauncher.csproj": {
+    "C:\\UnityPortfolioAll\\ShortcutApp\\MyAppLauncher\\MyAppLauncher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibuki\\source\\repos\\MyAppLauncher\\MyAppLauncher\\MyAppLauncher.csproj",
+        "projectUniqueName": "C:\\UnityPortfolioAll\\ShortcutApp\\MyAppLauncher\\MyAppLauncher.csproj",
         "projectName": "MyAppLauncher",
-        "projectPath": "C:\\Users\\ibuki\\source\\repos\\MyAppLauncher\\MyAppLauncher\\MyAppLauncher.csproj",
+        "projectPath": "C:\\UnityPortfolioAll\\ShortcutApp\\MyAppLauncher\\MyAppLauncher.csproj",
         "packagesPath": "C:\\Users\\ibuki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibuki\\source\\repos\\MyAppLauncher\\MyAppLauncher\\obj\\",
+        "outputPath": "C:\\UnityPortfolioAll\\ShortcutApp\\MyAppLauncher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

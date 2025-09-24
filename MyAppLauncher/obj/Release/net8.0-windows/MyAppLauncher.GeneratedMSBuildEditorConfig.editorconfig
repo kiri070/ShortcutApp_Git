@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyAppLauncher
-build_property.ProjectDir = C:\Users\ibuki\source\repos\MyAppLauncher\MyAppLauncher\
+build_property.ProjectDir = C:\UnityPortfolioAll\ShortcutApp\MyAppLauncher\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
