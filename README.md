@@ -21,7 +21,7 @@ WPFでC#を扱い、アプリやゲーム開発を行う上で、便利なツー
 - ショートカットの登録だけではなく、削除も行えるようにしました
 
 ## 実行方法
-1. ![GoogleDriveリンク](https://drive.google.com/file/d/1Gd_2S6l9dDKu7k3q7kopGMszBoF9NXmN/view?usp=sharing)
+1. [GoogleDriveリンク](https://drive.google.com/file/d/1Gd_2S6l9dDKu7k3q7kopGMszBoF9NXmN/view?usp=sharing)
 2. zipファイルを解凍して実行
 
 ※実行時に警告が出るかと思いますが、怪しいものは一切含まれていないのでそのまま開いていただけると幸いです。
